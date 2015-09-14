@@ -1,0 +1,12 @@
+PROJECT WORK APP FITNESS.
+
+L'app deve sostituire le classiche tebelle cartaceee usate in palestra dai bodybuilders.
+*il coach sarà in grado di modificare la tabella del bb in tempo reale.
+*il coach potrà visionare i dati biometrici del bb (rilevati da sensori biometrici quali braccialetti ES. samsung gear fit / fitbit o altri sensori).
+*un alarm avvisera il coach se il bb si sta allendo in maniera scorretta.
+
+
+NOTE:questa app può essere usata in palestra,da coach a distanza,nelle società sportive professionistiche.(eventualmente,in futuro,in ambito medico preventivo).
+
+Come prima parte del progetto considerando la mia inesperienza mi dovrei limitare a raccogliere dati da un braccialetto gear fit, il che implica dover creare un client per os android perchè l'hw non comunica direttamente con internet.
+
